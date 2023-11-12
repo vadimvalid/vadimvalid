@@ -29,4 +29,3 @@
 <h2>Statistics</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vadimvalid&theme=solarized_dark)
-
