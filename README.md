@@ -1,3 +1,1 @@
-<h1 align="center">Hi there, I'm **Vadim**</h1> 
-
-<h3 align="center">Frontend Developer/h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=4C95F7&center=true&multiline=true&random=false&width=435&lines=Hi+there!+I%60m+Vadim;Web+Developer" alt="Typing SVG" /></a>
