@@ -28,6 +28,5 @@
 
 <h2>Statistics</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimvalid&show_icons=true&theme=cobalt)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vadimvalid&theme=solarized_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimvalid&layout=compact)
